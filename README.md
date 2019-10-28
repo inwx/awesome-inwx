@@ -12,8 +12,8 @@ A curated list of helpful INWX resources and community projects.
 
 ## Let's Encrypt
 
+- [acme.sh](https://github.com/Neilpang/acme.sh) - A shell implementation of the ACME protocol
 - [letsencrypt-inwx](https://github.com/kegato/letsencrypt-inwx) - CLI utility for automating the Let's Encrypt DNS-01 challenge for domains using INWX nameservers.
-
 
 
 ## License
