@@ -20,6 +20,7 @@ A curated list of helpful INWX resources and community projects.
 ## DynDNS
 
 - [nsupdate](https://github.com/chrisb86/nsupdate) - A DynDNS shell script for INWX
+- [Bash-INWX-DynDNS](https://github.com/gehaxelt/Bash-INWX-DynDNS) - A DynDNS shell script for INWX
 
 ## Other
 
