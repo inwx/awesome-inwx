@@ -26,6 +26,7 @@ A curated list of helpful INWX resources and community projects.
 ## Other
 
 - [inwx-mailcow-dns-configurator](https://github.com/deg0nz/inwx-mailcow-dns-configurator) - A mailcow DNS configurator using the INWX API
+- [isp-dnstool](https://github.com/SpicyWeb-de/isp-dnstool) - A tool to sync DNSSEC data between ISPConfig and INWX Domain Registry
 
 
 ## License
