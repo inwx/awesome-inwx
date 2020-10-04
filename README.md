@@ -9,6 +9,7 @@ A curated list of helpful INWX resources and community projects.
 ## Unofficial API Clients
 
 - [inwxcli](https://github.com/fnkr/inwxcli) - A CLI client for the INWX API
+- [inwx-domrobot-elixir](https://github.com/cybrox/inwx-domrobot-elixir) - An Elixir client for the INWX API
 
 
 ## Let's Encrypt
