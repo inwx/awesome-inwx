@@ -10,7 +10,7 @@ A curated list of helpful INWX resources and community projects.
 
 - [inwxcli](https://github.com/fnkr/inwxcli) - A CLI client for the INWX API
 - [inwx-domrobot-elixir](https://github.com/cybrox/inwx-domrobot-elixir) - An Elixir client for the INWX API
-
+- [terraform-provider-inwx](https://github.com/andrexus/terraform-provider-inwx) - A Terraform provider for the INWX API
 
 ## Let's Encrypt
 
@@ -27,7 +27,6 @@ A curated list of helpful INWX resources and community projects.
 
 - [inwx-mailcow-dns-configurator](https://github.com/deg0nz/inwx-mailcow-dns-configurator) - A mailcow DNS configurator using the INWX API
 - [isp-dnstool](https://github.com/SpicyWeb-de/isp-dnstool) - A tool to sync DNSSEC data between ISPConfig and INWX Domain Registry
-
 
 ## License
 
