@@ -10,7 +10,6 @@ A curated list of helpful INWX resources and community projects.
 
 - [inwxcli](https://github.com/fnkr/inwxcli) - A CLI client for the INWX API
 - [inwx-domrobot-elixir](https://github.com/cybrox/inwx-domrobot-elixir) - An Elixir client for the INWX API
-- [terraform-provider-inwx](https://github.com/andrexus/terraform-provider-inwx) - A Terraform provider for the INWX API
 
 ## Let's Encrypt
 
