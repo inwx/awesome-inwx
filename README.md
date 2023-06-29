@@ -16,6 +16,7 @@ A curated list of helpful INWX resources and community projects.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A shell implementation of the ACME protocol
 - [letsencrypt-inwx](https://github.com/kegato/letsencrypt-inwx) - CLI utility for automating the Let's Encrypt DNS-01 challenge for domains using INWX nameservers
 - [certbot-dns-inwx](https://github.com/oGGy990/certbot-dns-inwx) - INWX DNS authenticator plugin for certbot
+- [acme-dns-inwx](https://github.com/froonix/acme-dns-inwx) - Use INWX DNS-API for ACME's dns-01 challenge
 
 ## DynDNS
 
